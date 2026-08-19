@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="DjlYvjrL0FteV5EyIo3B" name="Page-1">
+        <mxGraphModel dx="329" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="90" width="210" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="90" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Navigation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="115" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Banner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="140" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Side" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="164" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Content" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="164" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="270" width="210" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
