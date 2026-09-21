@@ -4,9 +4,9 @@ include("db.php");
 $errors = [];
 
 if($_SERVER['REQUEST_METHOD'] == 'POST'){ // check which method is used when submitting the form
-    $username = $_POST['username']; // stored the user input to variable $username
-    $password = $_POST['password']; // stored the user input to variable $password
-    $confirmPassword = $_POST['confirm_password']; // // stored the user input to variable $confirmPassword
+    $username = $_POST['username']; // stores the user input to variable $username
+    $password = $_POST['password']; // stores the user input to variable $password
+    $confirmPassword = $_POST['confirm_password']; // // stores the user input to variable $confirmPassword
 
     if(strlen($username) <= 8){ // ensuring that the username must be 8 or more characters long
         $errors[] = "Username must be equal or greater than 8 characters"; // saves the error to $errors array
